@@ -2,6 +2,8 @@
 
 Please wait a while for all the videos to load.
 
+Let’s first provide a preview of the performance of our general policy. [general](./videos/all.mp4)
+
 ## Long Sequences
 
 We first demonstrate the performance on the **LAFAN1** dataset, sourced from the Ubisoft La Forge Animation Dataset ([Harvey et al., 2020](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)) [1].
